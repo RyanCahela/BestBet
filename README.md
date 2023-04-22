@@ -1,3 +1,19 @@
 # BestBet
 
-<img width="702" alt="image" src="https://user-images.githubusercontent.com/39177018/233799125-ea8e6910-3757-444d-8d44-37648ba1fc56.png">
+- Name: Best Bet
+- use case
+1. Click on
+2. Pop-up window 3. Shows best bets on day
+4. Toggle based on type of belter (Mode- Regre) 5. Toggle by Sport
+
+- Questions:
+1. Where can we get the data from
+2. sportdata'API
+3. Vegas odds API .
+
+
+
+
+- Name: Weed Ext.
+- Mirgjuana News
+- Distance from dispensary - Google maps API
