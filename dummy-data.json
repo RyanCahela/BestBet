@@ -1,0 +1,3092 @@
+[
+  {
+    "id": "02256133ccbc217f44859c7cafe779dd",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2023-04-24T23:07:00Z",
+    "home_team": "Toronto Blue Jays",
+    "away_team": "Chicago White Sox",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-04-25T01:44:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:18Z",
+            "outcomes": [
+              { "name": "Chicago White Sox", "price": 1800 },
+              { "name": "Toronto Blue Jays", "price": -20000 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2023-04-25T01:36:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:36:04Z",
+            "outcomes": [
+              { "name": "Chicago White Sox", "price": 3400 },
+              { "name": "Toronto Blue Jays", "price": -8000 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2023-04-25T01:42:56Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:42:56Z",
+            "outcomes": [
+              { "name": "Chicago White Sox", "price": 1150 },
+              { "name": "Toronto Blue Jays", "price": -5000 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-04-25T01:43:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:46Z",
+            "outcomes": [
+              { "name": "Chicago White Sox", "price": 4500 },
+              { "name": "Toronto Blue Jays", "price": -29412 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2023-04-25T01:44:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:24Z",
+            "outcomes": [
+              { "name": "Chicago White Sox", "price": 3300 },
+              { "name": "Toronto Blue Jays", "price": -10000 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7ec3678cb60a459dd3da998d4c9f791c",
+    "sport_key": "icehockey_nhl",
+    "sport_title": "NHL",
+    "commence_time": "2023-04-24T23:08:00Z",
+    "home_team": "New York Rangers",
+    "away_team": "New Jersey Devils",
+    "bookmakers": [
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-04-25T01:38:09Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:38:09Z",
+            "outcomes": [
+              { "name": "New Jersey Devils", "price": -3335 },
+              { "name": "New York Rangers", "price": 1200 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "barstool",
+        "title": "Barstool Sportsbook",
+        "last_update": "2023-04-25T01:37:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:37:52Z",
+            "outcomes": [
+              { "name": "New Jersey Devils", "price": -3335 },
+              { "name": "New York Rangers", "price": 1200 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sugarhouse",
+        "title": "SugarHouse",
+        "last_update": "2023-04-25T01:38:02Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:38:02Z",
+            "outcomes": [
+              { "name": "New Jersey Devils", "price": -3335 },
+              { "name": "New York Rangers", "price": 1050 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "twinspires",
+        "title": "TwinSpires",
+        "last_update": "2023-04-25T01:37:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:37:58Z",
+            "outcomes": [
+              { "name": "New Jersey Devils", "price": -3335 },
+              { "name": "New York Rangers", "price": 1200 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2023-04-25T01:34:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:34:32Z",
+            "outcomes": [
+              { "name": "New Jersey Devils", "price": -3500 },
+              { "name": "New York Rangers", "price": 1060 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-04-25T01:33:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:33:01Z",
+            "outcomes": [
+              { "name": "New Jersey Devils", "price": -1200 },
+              { "name": "New York Rangers", "price": 700 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2023-04-25T01:38:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:38:52Z",
+            "outcomes": [
+              { "name": "New Jersey Devils", "price": -10000 },
+              { "name": "New York Rangers", "price": 3300 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "William Hill (US)",
+        "last_update": "2023-04-25T01:39:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:39:24Z",
+            "outcomes": [
+              { "name": "New Jersey Devils", "price": -200000 },
+              { "name": "New York Rangers", "price": 6000 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "foxbet",
+        "title": "FOX Bet",
+        "last_update": "2023-04-25T01:35:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:35:18Z",
+            "outcomes": [
+              { "name": "New Jersey Devils", "price": -1250 },
+              { "name": "New York Rangers", "price": 550 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2023-04-25T01:44:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:06Z",
+            "outcomes": [
+              { "name": "New Jersey Devils", "price": -714 },
+              { "name": "New York Rangers", "price": 430 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-04-25T01:41:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:41:45Z",
+            "outcomes": [
+              { "name": "New Jersey Devils", "price": -1800 },
+              { "name": "New York Rangers", "price": 800 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-04-25T01:38:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:38:36Z",
+            "outcomes": [
+              { "name": "New Jersey Devils", "price": -100000 },
+              { "name": "New York Rangers", "price": -100000 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "circasports",
+        "title": "Circa Sports",
+        "last_update": "2023-04-25T01:31:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:31:58Z",
+            "outcomes": [
+              { "name": "New Jersey Devils", "price": -910 },
+              { "name": "New York Rangers", "price": 619 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a5b671cd9d7505ce5261549e930b1d71",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2023-04-24T23:20:00Z",
+    "home_team": "Atlanta Braves",
+    "away_team": "Miami Marlins",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-04-25T01:43:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:36Z",
+            "outcomes": [
+              { "name": "Atlanta Braves", "price": -20000 },
+              { "name": "Miami Marlins", "price": 1800 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2023-04-25T01:41:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:41:47Z",
+            "outcomes": [
+              { "name": "Atlanta Braves", "price": -10000 },
+              { "name": "Miami Marlins", "price": 3300 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b88849896d0ff9317a1bc6340189178b",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2023-04-24T23:35:00Z",
+    "home_team": "Miami Heat",
+    "away_team": "Milwaukee Bucks",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2023-04-25T01:44:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:23Z",
+            "outcomes": [
+              { "name": "Miami Heat", "price": 1500 },
+              { "name": "Milwaukee Bucks", "price": -7000 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-04-25T01:44:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:31Z",
+            "outcomes": [
+              { "name": "Miami Heat", "price": 2000 },
+              { "name": "Milwaukee Bucks", "price": -12500 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "William Hill (US)",
+        "last_update": "2023-04-25T01:44:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:23Z",
+            "outcomes": [
+              { "name": "Miami Heat", "price": 1100 },
+              { "name": "Milwaukee Bucks", "price": -3000 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "foxbet",
+        "title": "FOX Bet",
+        "last_update": "2023-04-25T01:43:59Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:59Z",
+            "outcomes": [
+              { "name": "Miami Heat", "price": 750 },
+              { "name": "Milwaukee Bucks", "price": -3333 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2023-04-25T01:44:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:06Z",
+            "outcomes": [
+              { "name": "Miami Heat", "price": 900 },
+              { "name": "Milwaukee Bucks", "price": -2500 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "circasports",
+        "title": "Circa Sports",
+        "last_update": "2023-04-25T01:37:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:37:37Z",
+            "outcomes": [
+              { "name": "Miami Heat", "price": 1165 },
+              { "name": "Milwaukee Bucks", "price": -2500 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-04-25T01:44:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:17Z",
+            "outcomes": [
+              { "name": "Miami Heat", "price": 1700 },
+              { "name": "Milwaukee Bucks", "price": -5000 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2023-04-25T01:44:12Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:12Z",
+            "outcomes": [
+              { "name": "Miami Heat", "price": 1200 },
+              { "name": "Milwaukee Bucks", "price": -10000 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f222905cf8cbd3805069f3b1d978f86e",
+    "sport_key": "icehockey_nhl",
+    "sport_title": "NHL",
+    "commence_time": "2023-04-24T23:38:00Z",
+    "home_team": "Tampa Bay Lightning",
+    "away_team": "Toronto Maple Leafs",
+    "bookmakers": [
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2023-04-25T01:43:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:11Z",
+            "outcomes": [
+              { "name": "Tampa Bay Lightning", "price": -10000 },
+              { "name": "Toronto Maple Leafs", "price": 2800 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-04-25T01:43:50Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:50Z",
+            "outcomes": [
+              { "name": "Tampa Bay Lightning", "price": -20000 },
+              { "name": "Toronto Maple Leafs", "price": 1800 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-04-25T01:43:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:46Z",
+            "outcomes": [
+              { "name": "Tampa Bay Lightning", "price": -15625 },
+              { "name": "Toronto Maple Leafs", "price": 1450 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "66c3f485d25265cfd4858d0761e6599d",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2023-04-24T23:40:00Z",
+    "home_team": "Milwaukee Brewers",
+    "away_team": "Detroit Tigers",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-04-25T01:44:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:18Z",
+            "outcomes": [
+              { "name": "Detroit Tigers", "price": -585 },
+              { "name": "Milwaukee Brewers", "price": 420 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-04-25T01:44:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:18Z",
+            "outcomes": [
+              { "name": "Detroit Tigers", "price": -550 },
+              { "name": "Milwaukee Brewers", "price": 350 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "circasports",
+        "title": "Circa Sports",
+        "last_update": "2023-04-25T01:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:58Z",
+            "outcomes": [
+              { "name": "Detroit Tigers", "price": -556 },
+              { "name": "Milwaukee Brewers", "price": 415 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "barstool",
+        "title": "Barstool Sportsbook",
+        "last_update": "2023-04-25T01:44:22Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:22Z",
+            "outcomes": [
+              { "name": "Detroit Tigers", "price": -590 },
+              { "name": "Milwaukee Brewers", "price": 380 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-04-25T01:44:14Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:14Z",
+            "outcomes": [
+              { "name": "Detroit Tigers", "price": -590 },
+              { "name": "Milwaukee Brewers", "price": 380 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "twinspires",
+        "title": "TwinSpires",
+        "last_update": "2023-04-25T01:44:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:10Z",
+            "outcomes": [
+              { "name": "Detroit Tigers", "price": -590 },
+              { "name": "Milwaukee Brewers", "price": 380 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sugarhouse",
+        "title": "SugarHouse",
+        "last_update": "2023-04-25T01:44:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:10Z",
+            "outcomes": [
+              { "name": "Detroit Tigers", "price": -590 },
+              { "name": "Milwaukee Brewers", "price": 350 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2023-04-25T01:44:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:24Z",
+            "outcomes": [
+              { "name": "Detroit Tigers", "price": -650 },
+              { "name": "Milwaukee Brewers", "price": 425 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "foxbet",
+        "title": "FOX Bet",
+        "last_update": "2023-04-25T01:44:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:15Z",
+            "outcomes": [
+              { "name": "Detroit Tigers", "price": -556 },
+              { "name": "Milwaukee Brewers", "price": 333 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-04-25T01:43:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:46Z",
+            "outcomes": [
+              { "name": "Detroit Tigers", "price": -700 },
+              { "name": "Milwaukee Brewers", "price": 425 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2023-04-25T01:42:56Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:42:56Z",
+            "outcomes": [
+              { "name": "Detroit Tigers", "price": -454 },
+              { "name": "Milwaukee Brewers", "price": 305 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2023-04-25T01:35:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:35:23Z",
+            "outcomes": [
+              { "name": "Detroit Tigers", "price": -1100 },
+              { "name": "Milwaukee Brewers", "price": 620 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "59d23a8bbf89d0ebafb6ee928b5a294b",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2023-04-24T23:40:00Z",
+    "home_team": "Minnesota Twins",
+    "away_team": "New York Yankees",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-04-25T01:44:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:18Z",
+            "outcomes": [
+              { "name": "Minnesota Twins", "price": -20000 },
+              { "name": "New York Yankees", "price": 1800 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "foxbet",
+        "title": "FOX Bet",
+        "last_update": "2023-04-25T01:44:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:15Z",
+            "outcomes": [
+              { "name": "Minnesota Twins", "price": -10000 },
+              { "name": "New York Yankees", "price": 1000 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2023-04-25T01:44:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:24Z",
+            "outcomes": [
+              { "name": "Minnesota Twins", "price": -10000 },
+              { "name": "New York Yankees", "price": 2200 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-04-25T01:43:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:46Z",
+            "outcomes": [
+              { "name": "Minnesota Twins", "price": -12500 },
+              { "name": "New York Yankees", "price": 2500 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4e3be561d1e540f5ba8c6708a81e172b",
+    "sport_key": "icehockey_nhl",
+    "sport_title": "NHL",
+    "commence_time": "2023-04-25T01:30:00Z",
+    "home_team": "Winnipeg Jets",
+    "away_team": "Vegas Golden Knights",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-04-25T01:44:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:08Z",
+            "outcomes": [
+              { "name": "Vegas Golden Knights", "price": -110 },
+              { "name": "Winnipeg Jets", "price": -110 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2023-04-25T01:44:02Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:02Z",
+            "outcomes": [
+              { "name": "Vegas Golden Knights", "price": -110 },
+              { "name": "Winnipeg Jets", "price": -110 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "twinspires",
+        "title": "TwinSpires",
+        "last_update": "2023-04-25T01:44:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:13Z",
+            "outcomes": [
+              { "name": "Vegas Golden Knights", "price": -110 },
+              { "name": "Winnipeg Jets", "price": -106 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "barstool",
+        "title": "Barstool Sportsbook",
+        "last_update": "2023-04-25T01:44:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:13Z",
+            "outcomes": [
+              { "name": "Vegas Golden Knights", "price": -110 },
+              { "name": "Winnipeg Jets", "price": -106 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2023-04-25T01:36:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:36:36Z",
+            "outcomes": [
+              { "name": "Vegas Golden Knights", "price": -110 },
+              { "name": "Winnipeg Jets", "price": -106 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-04-25T01:44:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:26Z",
+            "outcomes": [
+              { "name": "Vegas Golden Knights", "price": -110 },
+              { "name": "Winnipeg Jets", "price": -106 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sugarhouse",
+        "title": "SugarHouse",
+        "last_update": "2023-04-25T01:44:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:15Z",
+            "outcomes": [
+              { "name": "Vegas Golden Knights", "price": -112 },
+              { "name": "Winnipeg Jets", "price": -107 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2023-04-25T01:44:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:06Z",
+            "outcomes": [
+              { "name": "Vegas Golden Knights", "price": -110 },
+              { "name": "Winnipeg Jets", "price": -110 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2023-04-25T01:44:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:17Z",
+            "outcomes": [
+              { "name": "Vegas Golden Knights", "price": -114 },
+              { "name": "Winnipeg Jets", "price": -105 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2023-04-25T01:41:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:41:27Z",
+            "outcomes": [
+              { "name": "Vegas Golden Knights", "price": -110 },
+              { "name": "Winnipeg Jets", "price": -110 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "William Hill (US)",
+        "last_update": "2023-04-25T01:44:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:15Z",
+            "outcomes": [
+              { "name": "Vegas Golden Knights", "price": -110 },
+              { "name": "Winnipeg Jets", "price": -110 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "foxbet",
+        "title": "FOX Bet",
+        "last_update": "2023-04-25T01:33:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:33:13Z",
+            "outcomes": [
+              { "name": "Vegas Golden Knights", "price": -118 },
+              { "name": "Winnipeg Jets", "price": -105 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-04-25T01:43:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:46Z",
+            "outcomes": [
+              { "name": "Vegas Golden Knights", "price": -110 },
+              { "name": "Winnipeg Jets", "price": -110 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "wynnbet",
+        "title": "WynnBET",
+        "last_update": "2023-04-25T01:43:14Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:14Z",
+            "outcomes": [
+              { "name": "Vegas Golden Knights", "price": -110 },
+              { "name": "Winnipeg Jets", "price": -110 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "superbook",
+        "title": "SuperBook",
+        "last_update": "2023-04-25T01:44:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:19Z",
+            "outcomes": [
+              { "name": "Vegas Golden Knights", "price": -106 },
+              { "name": "Winnipeg Jets", "price": -104 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2023-04-25T01:44:30Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:30Z",
+            "outcomes": [
+              { "name": "Vegas Golden Knights", "price": -108 },
+              { "name": "Winnipeg Jets", "price": -102 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2023-04-25T01:44:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:17Z",
+            "outcomes": [
+              { "name": "Vegas Golden Knights", "price": -110 },
+              { "name": "Winnipeg Jets", "price": -101 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "circasports",
+        "title": "Circa Sports",
+        "last_update": "2023-04-25T01:36:50Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:36:50Z",
+            "outcomes": [
+              { "name": "Vegas Golden Knights", "price": -109 },
+              { "name": "Winnipeg Jets", "price": -109 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-04-25T01:43:50Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:50Z",
+            "outcomes": [
+              { "name": "Vegas Golden Knights", "price": -110 },
+              { "name": "Winnipeg Jets", "price": -110 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "9eb14c4587a1759156df3d4af281b7d7",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2023-04-25T01:38:00Z",
+    "home_team": "Los Angeles Angels",
+    "away_team": "Oakland Athletics",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-04-25T01:44:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:18Z",
+            "outcomes": [
+              { "name": "Los Angeles Angels", "price": -130 },
+              { "name": "Oakland Athletics", "price": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2023-04-25T01:40:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:40:33Z",
+            "outcomes": [
+              { "name": "Los Angeles Angels", "price": -196 },
+              { "name": "Oakland Athletics", "price": 179 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2023-04-25T01:38:56Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:38:56Z",
+            "outcomes": [
+              { "name": "Los Angeles Angels", "price": -195 },
+              { "name": "Oakland Athletics", "price": 179 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "William Hill (US)",
+        "last_update": "2023-04-25T01:39:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:39:04Z",
+            "outcomes": [
+              { "name": "Los Angeles Angels", "price": -210 },
+              { "name": "Oakland Athletics", "price": 175 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2023-04-25T01:38:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:38:23Z",
+            "outcomes": [
+              { "name": "Los Angeles Angels", "price": -200 },
+              { "name": "Oakland Athletics", "price": 170 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-04-25T01:44:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:18Z",
+            "outcomes": [
+              { "name": "Los Angeles Angels", "price": -120 },
+              { "name": "Oakland Athletics", "price": -110 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "wynnbet",
+        "title": "WynnBET",
+        "last_update": "2023-04-25T01:34:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:34:37Z",
+            "outcomes": [
+              { "name": "Los Angeles Angels", "price": -200 },
+              { "name": "Oakland Athletics", "price": 180 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "circasports",
+        "title": "Circa Sports",
+        "last_update": "2023-04-25T01:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:58Z",
+            "outcomes": [
+              { "name": "Los Angeles Angels", "price": -129 },
+              { "name": "Oakland Athletics", "price": 108 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2023-04-25T01:43:50Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:50Z",
+            "outcomes": [
+              { "name": "Los Angeles Angels", "price": -116 },
+              { "name": "Oakland Athletics", "price": -110 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "barstool",
+        "title": "Barstool Sportsbook",
+        "last_update": "2023-04-25T01:44:22Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:22Z",
+            "outcomes": [
+              { "name": "Los Angeles Angels", "price": -127 },
+              { "name": "Oakland Athletics", "price": 102 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-04-25T01:44:14Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:14Z",
+            "outcomes": [
+              { "name": "Los Angeles Angels", "price": -127 },
+              { "name": "Oakland Athletics", "price": 102 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "twinspires",
+        "title": "TwinSpires",
+        "last_update": "2023-04-25T01:44:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:10Z",
+            "outcomes": [
+              { "name": "Los Angeles Angels", "price": -127 },
+              { "name": "Oakland Athletics", "price": 102 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sugarhouse",
+        "title": "SugarHouse",
+        "last_update": "2023-04-25T01:44:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:10Z",
+            "outcomes": [
+              { "name": "Los Angeles Angels", "price": -127 },
+              { "name": "Oakland Athletics", "price": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2023-04-25T01:36:09Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:36:09Z",
+            "outcomes": [
+              { "name": "Los Angeles Angels", "price": -215 },
+              { "name": "Oakland Athletics", "price": 185 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2023-04-25T01:44:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:24Z",
+            "outcomes": [
+              { "name": "Los Angeles Angels", "price": -135 },
+              { "name": "Oakland Athletics", "price": 105 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "superbook",
+        "title": "SuperBook",
+        "last_update": "2023-04-25T01:37:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:37:45Z",
+            "outcomes": [
+              { "name": "Los Angeles Angels", "price": -205 },
+              { "name": "Oakland Athletics", "price": 185 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "foxbet",
+        "title": "FOX Bet",
+        "last_update": "2023-04-25T01:44:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:15Z",
+            "outcomes": [
+              { "name": "Los Angeles Angels", "price": -175 },
+              { "name": "Oakland Athletics", "price": 125 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2023-04-25T01:44:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:01Z",
+            "outcomes": [
+              { "name": "Los Angeles Angels", "price": -217 },
+              { "name": "Oakland Athletics", "price": 173 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-04-25T01:43:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:46Z",
+            "outcomes": [
+              { "name": "Los Angeles Angels", "price": -130 },
+              { "name": "Oakland Athletics", "price": 100 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0ca6fa01d1ce17b7dd7f07a6add8ede3",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2023-04-25T01:40:00Z",
+    "home_team": "Arizona Diamondbacks",
+    "away_team": "Kansas City Royals",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-04-25T01:44:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:18Z",
+            "outcomes": [
+              { "name": "Arizona Diamondbacks", "price": -110 },
+              { "name": "Kansas City Royals", "price": -120 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2023-04-25T01:40:33Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:40:33Z",
+            "outcomes": [
+              { "name": "Arizona Diamondbacks", "price": -156 },
+              { "name": "Kansas City Royals", "price": 142 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2023-04-25T01:40:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:40:27Z",
+            "outcomes": [
+              { "name": "Arizona Diamondbacks", "price": -154 },
+              { "name": "Kansas City Royals", "price": 142 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2023-04-25T01:40:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:40:57Z",
+            "outcomes": [
+              { "name": "Arizona Diamondbacks", "price": -155 },
+              { "name": "Kansas City Royals", "price": 140 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2023-04-25T01:44:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:24Z",
+            "outcomes": [
+              { "name": "Arizona Diamondbacks", "price": -105 },
+              { "name": "Kansas City Royals", "price": -120 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "William Hill (US)",
+        "last_update": "2023-04-25T01:39:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:39:45Z",
+            "outcomes": [
+              { "name": "Arizona Diamondbacks", "price": -160 },
+              { "name": "Kansas City Royals", "price": 135 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-04-25T01:44:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:18Z",
+            "outcomes": [
+              { "name": "Arizona Diamondbacks", "price": -115 },
+              { "name": "Kansas City Royals", "price": -115 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2023-04-25T01:43:50Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:50Z",
+            "outcomes": [
+              { "name": "Arizona Diamondbacks", "price": -116 },
+              { "name": "Kansas City Royals", "price": -110 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "superbook",
+        "title": "SuperBook",
+        "last_update": "2023-04-25T01:39:49Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:39:49Z",
+            "outcomes": [
+              { "name": "Arizona Diamondbacks", "price": -155 },
+              { "name": "Kansas City Royals", "price": 140 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "foxbet",
+        "title": "FOX Bet",
+        "last_update": "2023-04-25T01:44:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:15Z",
+            "outcomes": [
+              { "name": "Arizona Diamondbacks", "price": -175 },
+              { "name": "Kansas City Royals", "price": 125 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2023-04-25T01:44:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:01Z",
+            "outcomes": [
+              { "name": "Arizona Diamondbacks", "price": -158 },
+              { "name": "Kansas City Royals", "price": 129 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-04-25T01:43:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:46Z",
+            "outcomes": [
+              { "name": "Arizona Diamondbacks", "price": -115 },
+              { "name": "Kansas City Royals", "price": -115 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-04-25T01:44:14Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:14Z",
+            "outcomes": [
+              { "name": "Arizona Diamondbacks", "price": -113 },
+              { "name": "Kansas City Royals", "price": -112 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "barstool",
+        "title": "Barstool Sportsbook",
+        "last_update": "2023-04-25T01:44:22Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:22Z",
+            "outcomes": [
+              { "name": "Arizona Diamondbacks", "price": -108 },
+              { "name": "Kansas City Royals", "price": -117 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sugarhouse",
+        "title": "SugarHouse",
+        "last_update": "2023-04-25T01:44:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:10Z",
+            "outcomes": [
+              { "name": "Arizona Diamondbacks", "price": -114 },
+              { "name": "Kansas City Royals", "price": -113 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "twinspires",
+        "title": "TwinSpires",
+        "last_update": "2023-04-25T01:44:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:10Z",
+            "outcomes": [
+              { "name": "Arizona Diamondbacks", "price": -113 },
+              { "name": "Kansas City Royals", "price": -112 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2023-04-25T01:36:09Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:36:09Z",
+            "outcomes": [
+              { "name": "Arizona Diamondbacks", "price": -157 },
+              { "name": "Kansas City Royals", "price": 138 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "wynnbet",
+        "title": "WynnBET",
+        "last_update": "2023-04-25T01:39:41Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:39:41Z",
+            "outcomes": [
+              { "name": "Arizona Diamondbacks", "price": -185 },
+              { "name": "Kansas City Royals", "price": 130 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7ffdb407161c73689af0aa606cb19db1",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2023-04-25T01:45:00Z",
+    "home_team": "San Francisco Giants",
+    "away_team": "St. Louis Cardinals",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-04-25T01:44:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:18Z",
+            "outcomes": [
+              { "name": "San Francisco Giants", "price": -115 },
+              { "name": "St. Louis Cardinals", "price": -105 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2023-04-25T01:44:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:24Z",
+            "outcomes": [
+              { "name": "San Francisco Giants", "price": -112 },
+              { "name": "St. Louis Cardinals", "price": 102 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2023-04-25T01:44:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:11Z",
+            "outcomes": [
+              { "name": "San Francisco Giants", "price": -111 },
+              { "name": "St. Louis Cardinals", "price": 101 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2023-04-25T01:44:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:24Z",
+            "outcomes": [
+              { "name": "San Francisco Giants", "price": -112 },
+              { "name": "St. Louis Cardinals", "price": 102 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "William Hill (US)",
+        "last_update": "2023-04-25T01:43:56Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:56Z",
+            "outcomes": [
+              { "name": "San Francisco Giants", "price": -115 },
+              { "name": "St. Louis Cardinals", "price": -105 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "wynnbet",
+        "title": "WynnBET",
+        "last_update": "2023-04-25T01:39:41Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:39:41Z",
+            "outcomes": [
+              { "name": "San Francisco Giants", "price": -110 },
+              { "name": "St. Louis Cardinals", "price": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-04-25T01:44:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:18Z",
+            "outcomes": [
+              { "name": "San Francisco Giants", "price": -110 },
+              { "name": "St. Louis Cardinals", "price": -110 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "circasports",
+        "title": "Circa Sports",
+        "last_update": "2023-04-25T01:43:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:58Z",
+            "outcomes": [
+              { "name": "San Francisco Giants", "price": -118 },
+              { "name": "St. Louis Cardinals", "price": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2023-04-25T01:43:50Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:50Z",
+            "outcomes": [
+              { "name": "San Francisco Giants", "price": -110 },
+              { "name": "St. Louis Cardinals", "price": -106 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "twinspires",
+        "title": "TwinSpires",
+        "last_update": "2023-04-25T01:44:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:10Z",
+            "outcomes": [
+              { "name": "San Francisco Giants", "price": -115 },
+              { "name": "St. Louis Cardinals", "price": -109 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2023-04-25T01:41:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:41:53Z",
+            "outcomes": [
+              { "name": "San Francisco Giants", "price": -105 },
+              { "name": "St. Louis Cardinals", "price": -109 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sugarhouse",
+        "title": "SugarHouse",
+        "last_update": "2023-04-25T01:44:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:10Z",
+            "outcomes": [
+              { "name": "San Francisco Giants", "price": -117 },
+              { "name": "St. Louis Cardinals", "price": -110 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "barstool",
+        "title": "Barstool Sportsbook",
+        "last_update": "2023-04-25T01:44:22Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:22Z",
+            "outcomes": [
+              { "name": "San Francisco Giants", "price": -115 },
+              { "name": "St. Louis Cardinals", "price": -108 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-04-25T01:44:14Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:14Z",
+            "outcomes": [
+              { "name": "San Francisco Giants", "price": -115 },
+              { "name": "St. Louis Cardinals", "price": -108 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "superbook",
+        "title": "SuperBook",
+        "last_update": "2023-04-25T01:44:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:00Z",
+            "outcomes": [
+              { "name": "San Francisco Giants", "price": -110 },
+              { "name": "St. Louis Cardinals", "price": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2023-04-25T01:44:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:24Z",
+            "outcomes": [
+              { "name": "San Francisco Giants", "price": -110 },
+              { "name": "St. Louis Cardinals", "price": -110 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2023-04-25T01:44:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:01Z",
+            "outcomes": [
+              { "name": "San Francisco Giants", "price": -113 },
+              { "name": "St. Louis Cardinals", "price": -107 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "foxbet",
+        "title": "FOX Bet",
+        "last_update": "2023-04-25T01:44:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:15Z",
+            "outcomes": [
+              { "name": "San Francisco Giants", "price": -120 },
+              { "name": "St. Louis Cardinals", "price": -110 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-04-25T01:43:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:46Z",
+            "outcomes": [
+              { "name": "San Francisco Giants", "price": -115 },
+              { "name": "St. Louis Cardinals", "price": -105 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a67795479e3ed5284ec47039550e238a",
+    "sport_key": "icehockey_nhl",
+    "sport_title": "NHL",
+    "commence_time": "2023-04-25T02:00:00Z",
+    "home_team": "Seattle Kraken",
+    "away_team": "Colorado Avalanche",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-04-25T01:44:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:08Z",
+            "outcomes": [
+              { "name": "Colorado Avalanche", "price": -150 },
+              { "name": "Seattle Kraken", "price": 130 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2023-04-25T01:44:02Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:02Z",
+            "outcomes": [
+              { "name": "Colorado Avalanche", "price": -150 },
+              { "name": "Seattle Kraken", "price": 130 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2023-04-25T01:43:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:11Z",
+            "outcomes": [
+              { "name": "Colorado Avalanche", "price": -150 },
+              { "name": "Seattle Kraken", "price": 125 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "foxbet",
+        "title": "FOX Bet",
+        "last_update": "2023-04-25T01:44:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:17Z",
+            "outcomes": [
+              { "name": "Colorado Avalanche", "price": -154 },
+              { "name": "Seattle Kraken", "price": 120 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2023-04-25T01:44:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:17Z",
+            "outcomes": [
+              { "name": "Colorado Avalanche", "price": -154 },
+              { "name": "Seattle Kraken", "price": 128 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2023-04-25T01:44:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:06Z",
+            "outcomes": [
+              { "name": "Colorado Avalanche", "price": -149 },
+              { "name": "Seattle Kraken", "price": 122 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sugarhouse",
+        "title": "SugarHouse",
+        "last_update": "2023-04-25T01:44:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:15Z",
+            "outcomes": [
+              { "name": "Colorado Avalanche", "price": -155 },
+              { "name": "Seattle Kraken", "price": 133 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "barstool",
+        "title": "Barstool Sportsbook",
+        "last_update": "2023-04-25T01:44:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:13Z",
+            "outcomes": [
+              { "name": "Colorado Avalanche", "price": -157 },
+              { "name": "Seattle Kraken", "price": 130 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "twinspires",
+        "title": "TwinSpires",
+        "last_update": "2023-04-25T01:44:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:13Z",
+            "outcomes": [
+              { "name": "Colorado Avalanche", "price": -159 },
+              { "name": "Seattle Kraken", "price": 130 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "William Hill (US)",
+        "last_update": "2023-04-25T01:44:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:15Z",
+            "outcomes": [
+              { "name": "Colorado Avalanche", "price": -155 },
+              { "name": "Seattle Kraken", "price": 130 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2023-04-25T01:44:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:13Z",
+            "outcomes": [
+              { "name": "Colorado Avalanche", "price": -155 },
+              { "name": "Seattle Kraken", "price": 133 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-04-25T01:44:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:26Z",
+            "outcomes": [
+              { "name": "Colorado Avalanche", "price": -159 },
+              { "name": "Seattle Kraken", "price": 130 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "wynnbet",
+        "title": "WynnBET",
+        "last_update": "2023-04-25T01:43:14Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:14Z",
+            "outcomes": [
+              { "name": "Colorado Avalanche", "price": -154 },
+              { "name": "Seattle Kraken", "price": 130 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-04-25T01:43:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:46Z",
+            "outcomes": [
+              { "name": "Colorado Avalanche", "price": -155 },
+              { "name": "Seattle Kraken", "price": 130 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2023-04-25T01:44:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:17Z",
+            "outcomes": [
+              { "name": "Colorado Avalanche", "price": -145 },
+              { "name": "Seattle Kraken", "price": 129 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2023-04-25T01:44:30Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:30Z",
+            "outcomes": [
+              { "name": "Colorado Avalanche", "price": -143 },
+              { "name": "Seattle Kraken", "price": 129 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-04-25T01:43:50Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:50Z",
+            "outcomes": [
+              { "name": "Colorado Avalanche", "price": -150 },
+              { "name": "Seattle Kraken", "price": 130 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "superbook",
+        "title": "SuperBook",
+        "last_update": "2023-04-25T01:44:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:19Z",
+            "outcomes": [
+              { "name": "Colorado Avalanche", "price": -146 },
+              { "name": "Seattle Kraken", "price": 133 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "circasports",
+        "title": "Circa Sports",
+        "last_update": "2023-04-25T01:44:25Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:25Z",
+            "outcomes": [
+              { "name": "Colorado Avalanche", "price": -152 },
+              { "name": "Seattle Kraken", "price": 127 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a3f1b181c86371af3213af6fe1da023b",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2023-04-25T02:00:00Z",
+    "home_team": "Los Angeles Lakers",
+    "away_team": "Memphis Grizzlies",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-04-25T01:44:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:31Z",
+            "outcomes": [
+              { "name": "Los Angeles Lakers", "price": -200 },
+              { "name": "Memphis Grizzlies", "price": 170 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-04-25T01:44:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:17Z",
+            "outcomes": [
+              { "name": "Los Angeles Lakers", "price": -200 },
+              { "name": "Memphis Grizzlies", "price": 165 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2023-04-25T01:44:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:23Z",
+            "outcomes": [
+              { "name": "Los Angeles Lakers", "price": -200 },
+              { "name": "Memphis Grizzlies", "price": 168 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2023-04-25T01:44:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:15Z",
+            "outcomes": [
+              { "name": "Los Angeles Lakers", "price": -180 },
+              { "name": "Memphis Grizzlies", "price": 160 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2023-04-25T01:44:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:10Z",
+            "outcomes": [
+              { "name": "Los Angeles Lakers", "price": -182 },
+              { "name": "Memphis Grizzlies", "price": 160 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2023-04-25T01:44:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:04Z",
+            "outcomes": [
+              { "name": "Los Angeles Lakers", "price": -200 },
+              { "name": "Memphis Grizzlies", "price": 165 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "barstool",
+        "title": "Barstool Sportsbook",
+        "last_update": "2023-04-25T01:44:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:15Z",
+            "outcomes": [
+              { "name": "Los Angeles Lakers", "price": -200 },
+              { "name": "Memphis Grizzlies", "price": 165 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "twinspires",
+        "title": "TwinSpires",
+        "last_update": "2023-04-25T01:44:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:01Z",
+            "outcomes": [
+              { "name": "Los Angeles Lakers", "price": -200 },
+              { "name": "Memphis Grizzlies", "price": 165 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-04-25T01:44:08Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:08Z",
+            "outcomes": [
+              { "name": "Los Angeles Lakers", "price": -200 },
+              { "name": "Memphis Grizzlies", "price": 165 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "sugarhouse",
+        "title": "SugarHouse",
+        "last_update": "2023-04-25T01:44:11Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:11Z",
+            "outcomes": [
+              { "name": "Los Angeles Lakers", "price": -200 },
+              { "name": "Memphis Grizzlies", "price": 165 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "William Hill (US)",
+        "last_update": "2023-04-25T01:44:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:23Z",
+            "outcomes": [
+              { "name": "Los Angeles Lakers", "price": -210 },
+              { "name": "Memphis Grizzlies", "price": 175 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "foxbet",
+        "title": "FOX Bet",
+        "last_update": "2023-04-25T01:43:59Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:59Z",
+            "outcomes": [
+              { "name": "Los Angeles Lakers", "price": -213 },
+              { "name": "Memphis Grizzlies", "price": 150 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2023-04-25T01:44:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:06Z",
+            "outcomes": [
+              { "name": "Los Angeles Lakers", "price": -203 },
+              { "name": "Memphis Grizzlies", "price": 167 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-04-25T01:44:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:16Z",
+            "outcomes": [
+              { "name": "Los Angeles Lakers", "price": -200 },
+              { "name": "Memphis Grizzlies", "price": 170 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "circasports",
+        "title": "Circa Sports",
+        "last_update": "2023-04-25T01:43:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:53Z",
+            "outcomes": [
+              { "name": "Los Angeles Lakers", "price": -193 },
+              { "name": "Memphis Grizzlies", "price": 160 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "wynnbet",
+        "title": "WynnBET",
+        "last_update": "2023-04-25T01:42:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:42:27Z",
+            "outcomes": [
+              { "name": "Los Angeles Lakers", "price": -204 },
+              { "name": "Memphis Grizzlies", "price": 170 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "superbook",
+        "title": "SuperBook",
+        "last_update": "2023-04-25T01:44:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:27Z",
+            "outcomes": [
+              { "name": "Los Angeles Lakers", "price": -200 },
+              { "name": "Memphis Grizzlies", "price": 175 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2023-04-25T01:44:12Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:12Z",
+            "outcomes": [
+              { "name": "Los Angeles Lakers", "price": -200 },
+              { "name": "Memphis Grizzlies", "price": 165 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2023-04-25T01:44:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:19Z",
+            "outcomes": [
+              { "name": "Los Angeles Lakers", "price": -200 },
+              { "name": "Memphis Grizzlies", "price": 170 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e1b0aff5732ad5e6078138333b015905",
+    "sport_key": "cricket_test_match",
+    "sport_title": "Test Matches",
+    "commence_time": "2023-04-25T04:30:00Z",
+    "home_team": "Sri Lanka",
+    "away_team": "Ireland",
+    "bookmakers": []
+  },
+  {
+    "id": "28df2be7bf336f0fda29c3ada296eb82",
+    "sport_key": "aussierules_afl",
+    "sport_title": "AFL",
+    "commence_time": "2023-04-25T05:20:00Z",
+    "home_team": "Collingwood Magpies",
+    "away_team": "Essendon Bombers",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-04-25T01:40:18Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:40:18Z",
+            "outcomes": [
+              { "name": "Collingwood Magpies", "price": -210 },
+              { "name": "Essendon Bombers", "price": 170 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2023-04-25T01:43:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:46Z",
+            "outcomes": [
+              { "name": "Collingwood Magpies", "price": -194 },
+              { "name": "Essendon Bombers", "price": 158 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-04-25T01:43:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:54Z",
+            "outcomes": [
+              { "name": "Collingwood Magpies", "price": -190 },
+              { "name": "Essendon Bombers", "price": 155 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2023-04-25T01:44:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:31Z",
+            "outcomes": [
+              { "name": "Collingwood Magpies", "price": -180 },
+              { "name": "Essendon Bombers", "price": 160 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "William Hill (US)",
+        "last_update": "2023-04-25T01:43:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:46Z",
+            "outcomes": [
+              { "name": "Collingwood Magpies", "price": -220 },
+              { "name": "Essendon Bombers", "price": 170 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d9c1bb6241a443f0e82556c65831d831",
+    "sport_key": "rugbyleague_nrl",
+    "sport_title": "NRL",
+    "commence_time": "2023-04-25T06:05:00Z",
+    "home_team": "Sydney Roosters",
+    "away_team": "St George Illawarra Dragons",
+    "bookmakers": [
+      {
+        "key": "barstool",
+        "title": "Barstool Sportsbook",
+        "last_update": "2023-04-25T01:43:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:51Z",
+            "outcomes": [
+              { "name": "St George Illawarra Dragons", "price": 340 },
+              { "name": "Sydney Roosters", "price": -480 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "William Hill (US)",
+        "last_update": "2023-04-25T01:43:30Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:30Z",
+            "outcomes": [
+              { "name": "St George Illawarra Dragons", "price": 390 },
+              { "name": "Sydney Roosters", "price": -530 },
+              { "name": "Draw", "price": 2400 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2023-04-25T01:43:40Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:40Z",
+            "outcomes": [
+              { "name": "St George Illawarra Dragons", "price": 350 },
+              { "name": "Sydney Roosters", "price": -600 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2023-04-25T01:42:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:42:43Z",
+            "outcomes": [
+              { "name": "St George Illawarra Dragons", "price": 399 },
+              { "name": "Sydney Roosters", "price": -666 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-04-25T01:43:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:57Z",
+            "outcomes": [
+              { "name": "St George Illawarra Dragons", "price": 365 },
+              { "name": "Sydney Roosters", "price": -480 },
+              { "name": "Draw", "price": 2500 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2023-04-25T01:43:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:10Z",
+            "outcomes": [
+              { "name": "St George Illawarra Dragons", "price": 340 },
+              { "name": "Sydney Roosters", "price": -480 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2023-04-25T01:44:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:26Z",
+            "outcomes": [
+              { "name": "St George Illawarra Dragons", "price": 358 },
+              { "name": "Sydney Roosters", "price": -476 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2023-04-25T01:42:14Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:42:14Z",
+            "outcomes": [
+              { "name": "St George Illawarra Dragons", "price": 358 },
+              { "name": "Sydney Roosters", "price": -458 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d37202430e9575d7b43c7a2b49bc3afc",
+    "sport_key": "rugbyleague_nrl",
+    "sport_title": "NRL",
+    "commence_time": "2023-04-25T09:00:00Z",
+    "home_team": "Melbourne Storm",
+    "away_team": "New Zealand Warriors",
+    "bookmakers": [
+      {
+        "key": "barstool",
+        "title": "Barstool Sportsbook",
+        "last_update": "2023-04-25T01:43:52Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:51Z",
+            "outcomes": [
+              { "name": "Melbourne Storm", "price": -455 },
+              { "name": "New Zealand Warriors", "price": 325 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "William Hill (US)",
+        "last_update": "2023-04-25T01:43:30Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:30Z",
+            "outcomes": [
+              { "name": "Melbourne Storm", "price": -440 },
+              { "name": "New Zealand Warriors", "price": 340 },
+              { "name": "Draw", "price": 2400 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2023-04-25T01:43:40Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:40Z",
+            "outcomes": [
+              { "name": "Melbourne Storm", "price": -500 },
+              { "name": "New Zealand Warriors", "price": 300 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2023-04-25T01:42:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:42:43Z",
+            "outcomes": [
+              { "name": "Melbourne Storm", "price": -555 },
+              { "name": "New Zealand Warriors", "price": 349 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-04-25T01:43:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:57Z",
+            "outcomes": [
+              { "name": "Melbourne Storm", "price": -420 },
+              { "name": "New Zealand Warriors", "price": 330 },
+              { "name": "Draw", "price": 3000 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2023-04-25T01:43:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:10Z",
+            "outcomes": [
+              { "name": "Melbourne Storm", "price": -455 },
+              { "name": "New Zealand Warriors", "price": 325 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2023-04-25T01:44:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:26Z",
+            "outcomes": [
+              { "name": "Melbourne Storm", "price": -385 },
+              { "name": "New Zealand Warriors", "price": 297 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2023-04-25T01:42:14Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:42:14Z",
+            "outcomes": [
+              { "name": "Melbourne Storm", "price": -372 },
+              { "name": "New Zealand Warriors", "price": 297 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ab3a405b2482843cddef679ca7ce74a0",
+    "sport_key": "soccer_korea_kleague1",
+    "sport_title": "K League 1",
+    "commence_time": "2023-04-25T10:30:00Z",
+    "home_team": "Incheon United",
+    "away_team": "Ulsan Hyundai FC",
+    "bookmakers": [
+      {
+        "key": "williamhill_us",
+        "title": "William Hill (US)",
+        "last_update": "2023-04-25T01:41:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:41:27Z",
+            "outcomes": [
+              { "name": "Incheon United", "price": 275 },
+              { "name": "Ulsan Hyundai FC", "price": -104 },
+              { "name": "Draw", "price": 215 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2023-04-25T01:42:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:42:45Z",
+            "outcomes": [
+              { "name": "Incheon United", "price": 270 },
+              { "name": "Ulsan Hyundai FC", "price": 101 },
+              { "name": "Draw", "price": 240 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-04-25T01:41:56Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:41:56Z",
+            "outcomes": [
+              { "name": "Incheon United", "price": 270 },
+              { "name": "Ulsan Hyundai FC", "price": 105 },
+              { "name": "Draw", "price": 225 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "foxbet",
+        "title": "FOX Bet",
+        "last_update": "2023-04-25T01:41:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:41:46Z",
+            "outcomes": [
+              { "name": "Incheon United", "price": 260 },
+              { "name": "Ulsan Hyundai FC", "price": 100 },
+              { "name": "Draw", "price": 230 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2023-04-25T01:44:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:44:01Z",
+            "outcomes": [
+              { "name": "Incheon United", "price": 260 },
+              { "name": "Ulsan Hyundai FC", "price": -110 },
+              { "name": "Draw", "price": 240 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-04-25T01:43:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:43:32Z",
+            "outcomes": [
+              { "name": "Incheon United", "price": 280 },
+              { "name": "Ulsan Hyundai FC", "price": 100 },
+              { "name": "Draw", "price": 245 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2023-04-25T01:41:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:41:46Z",
+            "outcomes": [
+              { "name": "Incheon United", "price": 250 },
+              { "name": "Ulsan Hyundai FC", "price": 100 },
+              { "name": "Draw", "price": 240 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "barstool",
+        "title": "Barstool Sportsbook",
+        "last_update": "2023-04-25T01:42:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:42:57Z",
+            "outcomes": [
+              { "name": "Incheon United", "price": 270 },
+              { "name": "Ulsan Hyundai FC", "price": -110 },
+              { "name": "Draw", "price": 215 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2023-04-25T01:38:05Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:38:05Z",
+            "outcomes": [
+              { "name": "Incheon United", "price": 270 },
+              { "name": "Ulsan Hyundai FC", "price": -110 },
+              { "name": "Draw", "price": 215 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-04-25T01:41:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:41:54Z",
+            "outcomes": [
+              { "name": "Incheon United", "price": 270 },
+              { "name": "Ulsan Hyundai FC", "price": -110 },
+              { "name": "Draw", "price": 215 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "twinspires",
+        "title": "TwinSpires",
+        "last_update": "2023-04-25T01:41:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:41:43Z",
+            "outcomes": [
+              { "name": "Incheon United", "price": 270 },
+              { "name": "Ulsan Hyundai FC", "price": -110 },
+              { "name": "Draw", "price": 215 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2023-04-25T01:41:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-04-25T01:41:24Z",
+            "outcomes": [
+              { "name": "Incheon United", "price": 290 },
+              { "name": "Ulsan Hyundai FC", "price": -105 },
+              { "name": "Draw", "price": 240 }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
